@@ -13,5 +13,5 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 rsconnect/
-node_modules/
+frontend/node_modules/
 .vscode/
