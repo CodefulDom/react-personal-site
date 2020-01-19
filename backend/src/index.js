@@ -1,5 +1,5 @@
 require('dotenv').config({ path: 'variables.env' })
-const createServer = require('createServer')
+const createServer = require('./createServer')
 const db = require('./db')
 
 const server = createServer()
@@ -14,6 +14,6 @@ server.start(
     }
   },
   (details) => {
-    console.log(`Server is now running on port http:/localhost:${details.port} 🎆!`)
+    console.log(`Server is now running on port http://localhost:${details.port} 🎆 !`)
   }
 )
