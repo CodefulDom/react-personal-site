@@ -15,3 +15,4 @@ vignettes/*.pdf
 rsconnect/
 frontend/node_modules/
 .vscode/
+.next/

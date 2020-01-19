@@ -11,7 +11,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/Home": [
+    "/about": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/uses": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
