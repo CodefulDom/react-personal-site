@@ -5,5 +5,10 @@ const Nav = () => (
     <Link href="about">
       <a>About</a>
     </Link>
+    <Link href="/">
+      <a>Home</a>
+    </Link>
   </div>
 )
+
+export default Nav
